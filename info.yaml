@@ -26,10 +26,10 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
+  uo[0]: "Output least significant LED"
+  uo[1]: "Output second least significant LED"
+  uo[2]: "Output second most significant LED"
+  uo[3]: "Output most significant LED"
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
